@@ -1,6 +1,6 @@
-# On-Call Copilot 🚨🤖
+# On-Call Copilot
 
-A minimal **alert-to-pull-request agent** — the core loop behind autonomous
+A minimal **alert-to-pull-request agent**  the core loop behind autonomous
 on-call tooling, built in a weekend. Give it a production alert; it
 investigates the codebase and logs, diagnoses the root cause, writes a fix,
 runs the tests until they pass, and opens a real GitHub pull request.
@@ -69,10 +69,4 @@ default branch should be `main`), and point `GITHUB_REPO` at it.
 - **Real artifact out** — a genuine GitHub PR with a structured root-cause
   writeup, the way an on-call engineer would hand off.
 
-## Next steps (if extended past the weekend)
 
-- Real integrations: PagerDuty webhook in, Datadog logs query, GitHub Actions
-  to run the suite in CI rather than locally.
-- Multiple scenarios + an eval harness scoring fix correctness and steps taken.
-- Guardrails: diff-size limits, human approval gate, blast-radius checks.
-- Confidence scoring — when to auto-PR vs. when to just post findings.
