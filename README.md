@@ -15,3 +15,11 @@ Fine-tune for a specific task (JSON extraction or tool-calling). Use LoRA/QLoRA 
 
 Project 5: Real-Time Multimodal Application
 Build a voice assistant or streaming pipeline. Decompose end-to-end latency into a detailed budget. Add graceful degradation and timeout handling. Show you understand real-time systems.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/gappy401/How-to-learn/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
