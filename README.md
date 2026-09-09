@@ -22,4 +22,13 @@ Build a voice assistant or streaming pipeline. Decompose end-to-end latency into
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/gappy401/How-to-learn/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/gappy401/How-to-learn/tree/master/0013-roman-to-integer) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/gappy401/How-to-learn/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/gappy401/How-to-learn/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
