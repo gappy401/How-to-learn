@@ -3,13 +3,18 @@ class Solution:
         if x<0:
             return False
         else :
-            str_num=str(x)
-            for i in range(len(str_num)):
-                if str_num[i]==str_num[len(str_num)-1-i]:
-                    continue
+            rev=0
+            num=x
+            while(num!=0):
+                rev=rev*10 + num%10
+                num =num//10
+               
 
-                else:
-                    return False
+            
+            
+            if x==rev:
+                return True
 
-        return True
+
+        return False
                 
