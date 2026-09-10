@@ -32,6 +32,7 @@ Build a voice assistant or streaming pipeline. Decompose end-to-end latency into
 | ------- |
 | [0013-roman-to-integer](https://github.com/gappy401/How-to-learn/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/gappy401/How-to-learn/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/gappy401/How-to-learn/tree/master/0020-valid-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -40,4 +41,12 @@ Build a voice assistant or streaming pipeline. Decompose end-to-end latency into
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gappy401/How-to-learn/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gappy401/How-to-learn/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/gappy401/How-to-learn/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
