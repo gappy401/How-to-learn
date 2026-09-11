@@ -37,6 +37,7 @@ Build a voice assistant or streaming pipeline. Decompose end-to-end latency into
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gappy401/How-to-learn/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gappy401/How-to-learn/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Trie
 |  |
 | ------- |
@@ -57,4 +58,8 @@ Build a voice assistant or streaming pipeline. Decompose end-to-end latency into
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gappy401/How-to-learn/tree/master/0021-merge-two-sorted-lists) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/gappy401/How-to-learn/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
