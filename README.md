@@ -64,6 +64,7 @@ Build a voice assistant or streaming pipeline. Decompose end-to-end latency into
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/gappy401/How-to-learn/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/gappy401/How-to-learn/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
