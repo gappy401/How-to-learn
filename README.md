@@ -127,4 +127,8 @@ Build a voice assistant or streaming pipeline. Decompose end-to-end latency into
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gappy401/How-to-learn/tree/master/0088-merge-sorted-array) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/gappy401/How-to-learn/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
